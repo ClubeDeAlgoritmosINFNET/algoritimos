@@ -6,7 +6,7 @@
 #### Quer contribuir?
 - Coloque o na estrutura de pastas da seguinte forma:
 
--> Python
+-> Nome da Linguagem
 
 --> Nome do algoritmo
 
